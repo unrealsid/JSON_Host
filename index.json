@@ -1,9 +1,9 @@
 {
-	"Direction": {
+	"Direction": [{
 		"Forward": "Going Forward",
 		"Backward": "Going Backward",
 		"Left": "Going Left",
 		"Right": "Going Right"
-	}
+	}]
 }
 
