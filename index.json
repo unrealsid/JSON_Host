@@ -1,41 +1,30 @@
 {
-	"basic_data": 
-	{
-		"User1":
+	"UserData":
+	[
 		{
-			"Name": "Name1",
+			"Name": "User1",
 			"ID": "10001",
 			"Address": "North",
 			"TelNo": "77715222"	
 		}, 
-		
-		
-		"User2":
 		{
 			"Name": "SomeDude2",
 			"ID": "10002",
 			"Address": "South",
 			"TelNo": "286275323232"	
 		}, 
-		
-		
-		"User3":
 		{
 			"Name": "Nomad3",
 			"ID": "1000463",
 			"Address": "East",
 			"TelNo": "55744567"	
 		}, 
-		
-		
-		"User4":
 		{
 			"Name": "Nomad6",
 			"ID": "1045",
 			"Address": "West",
 			"TelNo": "6656545456"	
 		}
-	}
-	
+	]	
 }
 
