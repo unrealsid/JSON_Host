@@ -24,6 +24,12 @@
 			"ID": "1045",
 			"Address": "West",
 			"TelNo": "6656545456"	
+		}, 
+		{
+			"Name": "Nomad6",
+			"ID": "1045",
+			"Address": "West",
+			"TelNo": "6656545456"	
 		}
 	]	
 }
